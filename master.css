@@ -1,0 +1,124 @@
+*{
+    padding: 0;
+     margin: 0;
+     box-sizing: border-box; 
+     font-family: "Roboto", sans-serif;
+ }
+.container{
+    height: 100vh;
+}
+#nav1{
+    background-color:  #3fbabf;
+}
+.navbar .navbar-nav .nav-link.active,
+.navbar .navbar-nav .nav-link:focus,
+.navbar .navbar-nav .nav-link:hover{
+    color: #3fbabf;
+}
+.navbar .btn{
+    background-color: #3fbabf; 
+}
+.logo{
+    width: 100px;
+}
+.image-text button{
+    background-color: #3fbabf; 
+}
+.carousel-indicators button[data-bs-target]{
+    width: 10px;
+    height: 10px;
+}
+.carousel-indicators button[data-bs-target].active{
+    background-color: #3fbabf;
+}
+.Service1 .icon-holder i,
+.Service2 .icon-holder i,
+.Service3 .icon-holder i,
+.Service4 .icon-holder i,
+.Service5 .icon-holder i,
+.Service6 .icon-holder i{
+    font-size: 35px;
+    color: #3fbabf; 
+}
+.Service1 h4::after,
+.Service2 h4::after,
+.Service3 h4::after,
+.Service4 h4::after,
+.Service5 h4::after,
+.Service6 h4::after{
+    content: " ";
+    width: 80px;
+    height: 3px;
+    background-color: #3fbabf;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    position: absolute;
+    bottom: 35%;
+}
+.section-two{
+ background-color: #f7fdfd;
+}
+textarea{
+    height: 150px;
+}
+#make-button{
+    background-color: #3fbabf;
+}
+#make-button2{
+    background-color: #3fbabf;
+}
+.image-text{
+    background-color: rgb(249, 250, 252);
+    border-top: solid 4px #3fbabf;
+}
+#make-button::after{
+    content: " ";
+    width: 200px;
+    height: 3px;
+    background-color: #3fbabf;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    position: absolute;
+    bottom: -90%;
+}
+.section-four{
+    background-color: #f7fdfd;;
+}
+.row ul::after{
+    content: " ";
+    width: 5px;
+    height: 120px;
+    background-color:  #3fbabf;
+    position: absolute;
+    right: 50%;
+}
+.contact-icon i{
+    border: dotted 2px  #3fbabf; 
+    color: #3fbabf; 
+}
+.contact-icon {
+    color:  #3fbabf;
+}
+.footer{
+     background-color:  #f7fdfd; 
+}
+.BootstrapMade{
+    color: #3fbabf;
+}
+.section-three .nav-link.active,
+.section-three .nav-link:hover,
+.section-three .nav-link:focus{
+    color: #3fbabf;
+    border-right: #3fbabf solid 2px; 
+}
+#v-pills-Hepatology-tab{
+    color: #3fbabf; 
+}
+ .nav-pills button{
+    color: black;
+} 
+.nav-pills .nav-link[  data-bs-toggle].active{
+    color: #3fbabf;
+}
